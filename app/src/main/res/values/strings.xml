@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SmartCard</string>
+    <string name="qrcode_desc">Your QR Code Description Here</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
